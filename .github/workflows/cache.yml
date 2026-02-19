@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Cache dependencies
+      - name: cache-31b0375
         id: cache
         uses: actions/cache@v4
         with:
