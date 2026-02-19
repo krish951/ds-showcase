@@ -158,8 +158,9 @@
     "count": 3,
     "inventoryValue": 93437.35
   },
-  "clothing": {
+    "clothing": {
     "count": 2,
     "inventoryValue": 65334.89
   }
+}
 }
