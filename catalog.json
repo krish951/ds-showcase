@@ -141,7 +141,7 @@
       "rating": 3.9
     }
   ],
-  "aggregations": {
+"aggregations": {
   "books": {
     "count": 5,
     "inventoryValue": 77277.47
@@ -160,7 +160,6 @@
   },
   "clothing": {
     "count": 2,
-    "inventoryValue": 65261.39
+    "inventoryValue": 65334.89
   }
-}
 }
