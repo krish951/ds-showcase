@@ -22,26 +22,26 @@
     { "id": "prod-a38710e4-016", "name": "Pro Item 16", "category": "home", "price": 173.15, "stock": 28, "rating": 3.3 },
     { "id": "prod-a38710e4-017", "name": "Pro Item 17", "category": "electronics", "price": 430.52, "stock": 58, "rating": 3.9 }
   ],
-  "aggregations": {
-    "books": {
-      "count": 5,
-      "inventoryValue": 77277.47
-    },
-    "electronics": {
-      "count": 3,
-      "inventoryValue": 76531.34
-    },
-    "sports": {
-      "count": 4,
-      "inventoryValue": 143686.24
-    },
-    "home": {
-      "count": 3,
-      "inventoryValue": 90283.97
-    },
-    "clothing": {
-      "count": 2,
-      "inventoryValue": 65334.89
-    }
+"aggregations": {
+  "books": {
+    "count": 5,
+    "inventoryValue": 77277.47
+  },
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 76531.34
+  },
+  "sports": {
+    "count": 4,
+    "inventoryValue": 143574.31
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 90283.97
+  },
+  "clothing": {
+    "count": 2,
+    "inventoryValue": 65334.89
   }
+}
 }
